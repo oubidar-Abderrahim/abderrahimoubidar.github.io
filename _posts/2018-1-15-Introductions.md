@@ -4,7 +4,7 @@ date: 2018-1-15
 title: Welcome to my blog!
 ---
 
-Greeting!
+Greetings!
 
 My name is Abderrahim OUBIDAR, a passionate Java developer from Morocco. 
 
