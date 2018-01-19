@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2018-1-15
 title: Welcome to my blog!
 ---
 
