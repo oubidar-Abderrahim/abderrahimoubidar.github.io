@@ -20,7 +20,8 @@ the commands that we are using are :
 
 Here is a link to the original post : [Make your own Voice Command App using Java and Sphinx4](https://procurity.wordpress.com/2016/09/10/make-your-own-voice-command-app-using-java-and-sphinx4/ "Make your own Voice Command App using Java and Sphinx4") 
 
-##Requirements :
+Requirements :
+---
 
 Before starting here is what you are going to need:
 - Obviously, an IDE with Jdk installed (preferably Java 8 or above)
@@ -28,7 +29,9 @@ Before starting here is what you are going to need:
 - A working Microphone
 *Note* I am using Windows 10 as my OS.
 
-##About Models
+About Models
+---
+
 There are basically three models required for speech recognition in Sphinx4:
 
 Acoustic Model
@@ -38,7 +41,9 @@ The sphinx4-data.jar comes with the English version of Acoustic Model as Default
 
 Since we are creating a Voice Command app so we’ll be creating our own Language Model and the Phonetic Dictionary because our vocabulary will be limited i.e. our commands only. Now lets create our needed files :
 
-##Creating Language Model & Dictionary
+Creating Language Model & Dictionary
+---
+
 As said above our vocabulary is limited hence making the model and dict will be a breeze thanks to Sphinx Online Base Generator. But first we have to make a corpus (Data using which we will train our Language Model) file containing our commands for which we will create our Language Model and Dictionary. For this tutorial I’ll be choosing 5 commands.
 
 open file manager
@@ -49,7 +54,8 @@ exit program
 
 Now type these commands in your text file and save it. Then navigate to the [Sphinx Online Base Generator](http://www.speech.cs.cmu.edu/tools/lmtool-new.html "Sphinx Online Base Generator"), click *Choose File* and select your corpus text file. Now in response the site will give you a list of files, for now we are interested in the files ending with *.dict* and *.lm* extension, so download them.
 
-##Creating the App
+Creating the App
+---
 
 Create a new project (if you're familiar with maven use it, if not a simple Java project will work just fine)
 Now add the dependencies for [Sphinx4-core](https://mvnrepository.com/artifact/de.sciss/sphinx4-core/1.0.0 "Sphinx4-core") and [Sphinx4-data](https://mvnrepository.com/artifact/de.sciss/sphinx4-data/1.0.0 "Sphinx4-data") to your POM.xml, or add the jars to your build path
@@ -157,7 +163,10 @@ public class VoiceLauncher {
 }
 {% endhighlight %}
 
-##Adding more commands
+
+Adding more commands
+---
+
 In order to add more commands, just add your new commands in your previous *txt file* and then repeat the steps from the *Creating Language Model and Dictionary*.
 
 *The Code in Github :* [Create a Voice Command App with Java and Sphinx4](https://github.com/oubidar-Abderrahim/MyJavaWork/tree/master/VocalCommand "Github")
