@@ -18,30 +18,30 @@ the commands that we are using are :
 - Close browser : will close firefox.
 - Exit program : to end the program.
 
-Here is a link to the original post : [Make your own Voice Command App using Java and Sphinx4](https://procurity.wordpress.com/2016/09/10/make-your-own-voice-command-app-using-java-and-sphinx4/ "Make your own Voice Command App using Java and Sphinx4") 
+Here is a link to the original post : [Make your own Voice Command App using Java and Sphinx4](https://procurity.wordpress.com/2016/09/10/make-your-own-voice-command-app-using-java-and-sphinx4/ "Make your own Voice Command App using Java and Sphinx4").
 
 Requirements :
 ---
 
 Before starting here is what you are going to need:
-- Obviously, an IDE with Jdk installed (preferably Java 8 or above)
-- For this tutorial we're going to use maven to download the necessary Jars but you can get them if you wish directly from [Sphinx4](https://cmusphinx.github.io/wiki/download/ "Sphinx4")  
-- A working Microphone
+- Obviously, an IDE with Jdk installed (preferably Java 8 or above).
+- For this tutorial we're going to use maven to download the necessary Jars but you can get them if you wish directly from [Sphinx4](https://cmusphinx.github.io/wiki/download/ "Sphinx4").
+- A working Microphone.
 *Note* I am using Windows 10 as my OS.
 
-About Models
+About Models :
 ---
 
 There are basically three models required for speech recognition in Sphinx4:
 
-Acoustic Model
-Phonetic Dictionary (File ends with .dict extension)
-Language Model (File ends with .lm extension)
+Acoustic Model.
+Phonetic Dictionary (File ends with .dict extension).
+Language Model (File ends with .lm extension).
 The sphinx4-data.jar comes with the English version of Acoustic Model as Default hence we will be using that, if you are using other language then you’ll have to download it from [Here](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/).
 
 Since we are creating a Voice Command app so we’ll be creating our own Language Model and the Phonetic Dictionary because our vocabulary will be limited i.e. our commands only. Now lets create our needed files :
 
-Creating Language Model & Dictionary
+Creating Language Model & Dictionary :
 ---
 
 As said above our vocabulary is limited hence making the model and dict will be a breeze thanks to Sphinx Online Base Generator. But first we have to make a corpus (Data using which we will train our Language Model) file containing our commands for which we will create our Language Model and Dictionary. For this tutorial I’ll be choosing 5 commands.
@@ -59,7 +59,7 @@ Creating the App
 
 Create a new project (if you're familiar with maven use it, if not a simple Java project will work just fine)
 Now add the dependencies for [Sphinx4-core](https://mvnrepository.com/artifact/de.sciss/sphinx4-core/1.0.0 "Sphinx4-core") and [Sphinx4-data](https://mvnrepository.com/artifact/de.sciss/sphinx4-data/1.0.0 "Sphinx4-data") to your POM.xml, or add the jars to your build path
-then place the *.dict* and *.lm* in your resources folder
+then place the *.dict* and *.lm* in your resources folder.
 
 Once done with that, you're ready to write some code!!
 *Note* the code is commented to help you understand it better.
@@ -164,13 +164,13 @@ public class VoiceLauncher {
 {% endhighlight %}
 
 
-Adding more commands
+Adding more commands :
 ---
 
 In order to add more commands, just add your new commands in your previous *txt file* and then repeat the steps from the *Creating Language Model and Dictionary*.
 
-*The Code in Github :* [Create a Voice Command App with Java and Sphinx4](https://github.com/oubidar-Abderrahim/MyJavaWork/tree/master/VocalCommand "Github")
+*The Code in Github :* [Create a Voice Command App with Java and Sphinx4](https://github.com/oubidar-Abderrahim/MyJavaWork/tree/master/VocalCommand "Github").
 
-That it! I hope everything was clear and have fun with you're new cool voice command app 
+That it! I hope everything was clear and have fun with you're new cool voice command app!
 
 Thank you, regards.
