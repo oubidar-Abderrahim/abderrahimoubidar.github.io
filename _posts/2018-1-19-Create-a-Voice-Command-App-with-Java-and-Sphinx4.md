@@ -6,15 +6,6 @@ title: Create a Voice Command App with Java and Sphinx4!
 
 Greetings!
 
-{% highlight java %}
-public class HelloWorld
-{
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
-}
-{% endhighlight %}
-
 In this tutorial, We are going to build a *Voice Command App* using *Sphinx4 Speech Recognition Library* with *Java*. 
 
 I read an article on _Procurity's blog_ about it, and it made me want to try it myself! which I did, but i had some issues that i tried to solve. So i hope if you are curious too that the code below will work perfectly for you!
@@ -67,7 +58,7 @@ then place the *.dict* and *.lm* in your resources folder
 Once done with that, you're ready to write some code!!
 *Note* the code is commented to help you understand it better.
 
-```java
+{% highlight java %}
 import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.LiveSpeechRecognizer;
 import edu.cmu.sphinx.api.SpeechResult;
@@ -164,7 +155,7 @@ public class VoiceLauncher {
     }
   }
 }
-```
+{% endhighlight %}
 
 ##Adding more commands
 In order to add more commands, just add your new commands in your previous *txt file* and then repeat the steps from the *Creating Language Model and Dictionary*.
