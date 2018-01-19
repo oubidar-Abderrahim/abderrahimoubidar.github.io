@@ -58,7 +58,7 @@ then place the *.dict* and *.lm* in your resources folder
 Once done with that, you're ready to write some code!!
 *Note* the code is commented to help you understand it better.
 
-`
+```java
 import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.LiveSpeechRecognizer;
 import edu.cmu.sphinx.api.SpeechResult;
@@ -155,7 +155,8 @@ public class VoiceLauncher {
     }
   }
 }
-`
+```
+
 ##Adding more commands
 In order to add more commands, just add your new commands in your previous *txt file* and then repeat the steps from the *Creating Language Model and Dictionary*.
 
