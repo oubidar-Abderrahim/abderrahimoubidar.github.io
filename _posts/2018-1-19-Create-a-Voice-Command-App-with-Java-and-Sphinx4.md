@@ -62,6 +62,7 @@ Now add the dependencies for [Sphinx4-core](https://mvnrepository.com/artifact/d
 then place the *.dict* and *.lm* in your resources folder.
 
 Once done with that, you're ready to write some code!!
+
 *Note* the code is commented to help you understand it better.
 
 {% highlight java %}
