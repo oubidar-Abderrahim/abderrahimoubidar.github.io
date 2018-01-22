@@ -171,6 +171,6 @@ In order to add more commands, just add your new commands in your previous *txt 
 
 *The Code in Github :* [Create a Voice Command App with Java and Sphinx4](https://github.com/oubidar-Abderrahim/MyJavaWork/tree/master/VocalCommand "Github").
 
-That it! I hope everything was clear and have fun with you're new cool voice command app!
+That it! I hope everything was clear and have fun with your new cool voice command app!
 
 Thank you, regards.
