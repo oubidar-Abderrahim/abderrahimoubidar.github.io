@@ -2,10 +2,11 @@
 layout: post
 date: 2018-1-19
 title: Create a Voice Command App with Java and Sphinx4!
+excerpt_separator: <!--more-->
 ---
-
+                                                                                                              
 Greetings!
-
+<!--more-->
 In this tutorial, We are going to build a *Voice Command App* using *Sphinx4 Speech Recognition Library* with *Java*. 
 
 I read an article on _Procurity's blog_ about it, and it made me want to try it myself! which I did, but i had some issues that i tried to solve. So i hope if you are curious too that the code below will work perfectly for you!
