@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-5-29
-title: Tips to Become a Better Java Developer!
+title: 10 Tips to Become a Better Java Developer!
 ---
                                                                                                               
 Greetings!
