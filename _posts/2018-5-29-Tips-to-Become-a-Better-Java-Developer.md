@@ -26,7 +26,7 @@ Back to our subject, these are 10 tips from *Javin Paul* on how to be a better J
 1 - Learn Java 8
 ---
 
-This is the most important thing for a Java developer right now. It's a good 4 years old and even Java 9 was released 6 months back and people are now talking about [Java 10 features](https://javarevisited.blogspot.com/2018/03/java-10-released-10-new-features-java.html "Java 10 features"). Regardless, I know many programmers who have not written a single line of code using Java 8 features like lambdas and the Stream API.
+This is the most important thing for a Java developer right now. It's a good 4 years old and even Java 9 was released a few months back and people are now talking about the new [Java 10](https://javarevisited.blogspot.com/2018/03/java-10-released-10-new-features-java.html "Java 10 features"). Regardless, I know many programmers who have not written a single line of code using Java 8 features like lambdas and the Stream API.
 
 Unfortunately, most of them are experienced Java developers with good 7 to 10 years of experience under their belt. I understand that at some point in your career, learning becomes slow, but if you don't act now you will be left behind.
 
