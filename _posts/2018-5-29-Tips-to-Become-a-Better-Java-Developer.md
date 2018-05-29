@@ -139,7 +139,7 @@ Of course it's quite difficult to follow all these tips, and no one is asking yo
 My personal tips
 ---
 
-*Work & Learn! :* If you works in a company that uses the newest and best technologies, Lucky you! I bet many other developers around the world (me included) are jealous of you! but for the rest of us, graduating and getting a job isn't the end of the road, it's actually the beginning. Keep learning!
+*Work & Learn! :* If you works in a company that uses the newest and best technologies, Lucky you! I bet many other developers around the world (me included) are jealous of you! but what everyone should know by now, graduating and getting a job isn't the end of the road, it's actually the beginning. I think that the best way to become a better programmer is to write code and read *everything!* The moment you stop doing either, you will slow down the progression of your skills.
 
 *Have a side project :* Probably you've heard this before but let me say it again, always have a side project! something you are completely responsible for. Use any technology you want. If you don't like it, start again from scratch. Keep trying to make you app fast, easy to use, and bug free.
 
