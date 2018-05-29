@@ -1,3 +1,4 @@
+
 ---
 layout: post
 date: 2018-5-29
@@ -5,10 +6,6 @@ title: Tips to Become a Better Java Developer!
 ---
 
 Greetings!
-
-<br />
-
-
 
 I read an excellent article, published by *Javin Paul*, about tips on how to become a better Java developer! and I decided to share it with you all, plus my little experience as a Java developer.
 
