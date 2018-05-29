@@ -10,7 +10,7 @@ Greetings!
 
 I read recently an excellent article, published by *Javin Paul*, about tips on how to become a better Java developer! and today I decided to share those tips with you, with a little extra, my personal tips on how to stay on top as a Java developer.
 
-It's no magic! being a better Java developer requires a lot of time and effort, plus the secret factor (hint: it's not chimical X)
+It's no magic! being a better Java developer requires a lot of time and effort, plus the secret factor (hint: it's not chimical X):
 
 You should be *in love with Java <3* 
 ---
