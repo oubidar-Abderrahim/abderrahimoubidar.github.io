@@ -8,22 +8,20 @@ excerpt_separator: <!--more-->
 Greetings!
 <!--more-->
 
-I read an excellent article, published by *Javin Paul*, about tips on how to become a better Java developer! and I decided to share it with you all, plus my little experience as a Java developer.
+I read recently an excellent article, published by *Javin Paul*, about tips on how to become a better Java developer! and today I decided to share those tips with you, with a little extra, my personal tips on how to stay on top as a Java developer.
 
-It's no magic! being a better Java developer requires an important factor :
+It's no magic! being a better Java developer requires a lot of time and effort, plus the secret factor (hint: it's not chimical X)
 
 You should be *in love with Java <3* 
 ---
 
-I rarely meet people that are great developers and yet, they don't code ALL THE TIME!! Duh! we have lives too, but coding and discovering new things take the biggest part of our time.
+I rarely meet people that are great developers and yet, they don't code ALL THE TIME!! I know what you might be asking yourself and Duh! we do have lives too, but coding and discovering new things take the biggest part of our time.
 
-Technology is evolving fast! While I still consider Java 8 a new thing and try to become familiar with its new features, Java 11 is coming soon! not to mention all the shiny talk about *JavaScript Frameworks and Libraries*.
+Technology is evolving fast! While I still consider Java 8 a new thing, Java 11 is coming soon already! we jumped from making lng xml and configuration classes to simply run a Spring Boot Application and not to mention all the shiny talk about *JavaScript Frameworks and Libraries*.
 
-So, how can I master all this? my answer may be a shocker to you but you can't!! well, at least not as fast as things evolve. But it's not about mastering everything, it's more about discovering them and find out what can you use to develop high quality applications and how to solve different issues you may face along the road. At least this is my personal opinion of the matter.
+So, how can I master all this? my answer may be a shocker to you but you can't!! well, at least not as fast as this things evolve. But it's not about mastering everything, it's more about discovering them and find out what can you use to develop high quality applications and how to solve different issues you may face along the road. At least this is my personal opinion of the matter.
 
-I will be sharing with you in this article, my personal tips on how to stay updated about the ever-changing world of programming. Stay tuned!!
-
-Back to our subject, this is 10 tips from *Javin Paul* on how to be a better Java developer :
+Back to our subject, these are 10 tips from *Javin Paul* on how to be a better Java developer :
 
 1 - Learn Java 8
 ---
