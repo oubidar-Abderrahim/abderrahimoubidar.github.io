@@ -15,7 +15,7 @@ You should be *in love with Java <3*
 
 I rarely meet people that are great developers and yet, they don't code ALL THE TIME!! Duh! we have lives too, but coding and discovering new things take the biggest part of our time.
 
-Technology is evolving fast! While I still consider Java 8 a new thing and try to become familiar with its new features, Java 10 happened! not to mention all the shiny talk about *JavaScript Frameworks and Libraries*.
+Technology is evolving fast! While I still consider Java 8 a new thing and try to become familiar with its new features, Java 10 is coming soon! not to mention all the shiny talk about *JavaScript Frameworks and Libraries*.
 
 So, how can I master all this? my answer may be a shocker to you but you can't!! well, at least not as fast as things evolve. But it's not about mastering everything, it's more about discovering them and find out what can you use to develop high quality applications and how to solve different issues you may face along the road. At least this is my personal opinion of the matter.
 
