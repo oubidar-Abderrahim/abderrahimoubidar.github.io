@@ -13,7 +13,7 @@ I read an article on _Procurity's blog_ about it, and it made me want to try it 
 Our app will be able to listen and understand 5 simple commands and execute them in a windows machine. for Linux and Mac Os users, you need to update the commands to match you're operating system's commands.
 the commands that we are using are : 
 - Open file Manager : will open a new window of your file manager. 
-- close file Manager : will close *All* opened windows of your file manager.
+- Close file Manager : will close *All* opened windows of your file manager.
 - Open browser : will open firefox in my case (you can open any browser you want, just specify its location).
 - Close browser : will close firefox.
 - Exit program : to end the program.
