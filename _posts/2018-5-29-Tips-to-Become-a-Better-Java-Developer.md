@@ -138,17 +138,17 @@ Of course it's quite difficult to follow all these tips, and no one is asking yo
 My personal tips
 ---
 
-*Work & Learn! :* If you works in a company that uses the newest and best technologies, Lucky you! I bet many other developers around the world (me included) are jealous of you! but what everyone should know by now, graduating and getting a job isn't the end of the road, it's actually the beginning. I think that the best way to become a better programmer is to write code and read *everything!* The moment you stop doing either, you will slow down the progression of your skills.
+**Work & Learn! :** If you works in a company that uses the newest and best technologies, Lucky you! I bet many other developers around the world (me included) are jealous of you! but what everyone should know by now, graduating and getting a job isn't the end of the road, it's actually the beginning. I think that the best way to become a better programmer is to write code and read *everything!* The moment you stop doing either, you will slow down the progression of your skills.
 
-*Have a side project :* Probably you've heard this before but let me say it again, always have a side project! something you are completely responsible for. Use any technology you want. If you don't like it, start again from scratch. Keep trying to make you app fast, easy to use, and bug free.
+**Have a side project :** Probably you've heard this before but let me say it again, always have a side project! something you are completely responsible for. Use any technology you want. If you don't like it, start again from scratch. Keep trying to make you app fast, easy to use, and bug free.
 
-*Have a learning time table :* When I stumble upon an article or tutorial about an interesting technology, I usually save it to check it later, but I never do! so, I decided to make a time table with an objective to read/learn 3 articles/courses every day, and each day I note how much time I've spent and my progression ratio in each subject. This really helped me check a few subject out of my waiting list.
+**Have a learning time table :** When I stumble upon an article or tutorial about an interesting technology, I usually save it to check it later, but I never do! so, I decided to make a time table with an objective to read/learn 3 articles/courses every day, and each day I note how much time I've spent and my progression ratio in each subject. This really helped me check a few subject out of my waiting list.
 
-*Twitter over Facebook! :* I have nothing against Facebook except that it takes most of my free time! On the other hand, following the right people in twitter can be an important source of knowledge, besides you can filter what you want to see on your news feed easily to avoid distraction. 
+**Twitter over Facebook! :** I have nothing against Facebook except that it takes most of my free time! On the other hand, following the right people in twitter can be an important source of knowledge, besides you can filter what you want to see on your news feed easily to avoid distraction. 
 
-*Exploring Github :* Do you want to write elegant code like pros? then check how they do it in Github! There are thousands of Open Source Libraries that you can check and find out how experienced Java developer actually write their code.
+**Exploring Github :** Do you want to write elegant code like pros? then check how they do it in Github! There are thousands of Open Source Libraries that you can check and find out how experienced Java developer actually write their code.
 
-*Contribute to Open Source Projects :* I'll be honest, I hesitated to give you this advise since I didn't take it myself, but contributing to Open Source Projects will greatly help you improve your skills, not only because you will understand and use new technologies, but also because of the support you will get from the Open Source Community to help you improve fast.
+**Contribute to Open Source Projects :** I'll be honest, I hesitated to give you this advise since I didn't take it myself, but contributing to Open Source Projects will greatly help you improve your skills, not only because you will understand and use new technologies, but also because of the support you will get from the Open Source Community to help you improve fast.
 The first step is the most difficult one to take, it requires a little courage but once I take it I will surely share with you my experience about it. Promise!
  
  
