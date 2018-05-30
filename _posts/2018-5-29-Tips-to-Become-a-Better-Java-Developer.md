@@ -131,7 +131,7 @@ You can learn about some plugins that make your tasks easier or some keyboard sh
 
 Even some small tips go a long way because you can use them a lot more than you think. If you are serious about taking your IDE skills to next level and use Eclipse, then I suggest you check out [Eclipse Debugging Techniques And Tricks](https://www.udemy.com/eclipse-debugging-techniques-and-tricks "Eclipse Debugging Techniques And Tricks") on Udemy, a perfect course to improve your knowledge of Eclipse.
 
-You can find the original posth Here : [10 Tips to Become a Better Java Developer](https://dzone.com/articles/10-tips-to-become-a-better-java-developer-in-2018 "10 Tips to Become a Better Java Developer").
+You can find the original post Here : [10 Tips to Become a Better Java Developer](https://dzone.com/articles/10-tips-to-become-a-better-java-developer-in-2018 "10 Tips to Become a Better Java Developer").
 
 Of course it's quite difficult to follow all these tips, and no one is asking you to do that — it's simply not practical. You can focus on more important tasks first, e.g. learning Java 8 and learning Spring Framework if you don't know them yet, but if you are good at those, then you can pick other topics, e.g. unit testing, JVM internals, and DevOps.
 
