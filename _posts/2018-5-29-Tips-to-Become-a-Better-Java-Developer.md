@@ -19,7 +19,7 @@ I rarely meet people that are great developers and yet, they don't code ALL THE 
 
 Technology is evolving fast! While I still consider Java 8 a new thing, Java 11 is coming soon already! we jumped from making long xml and configuration classes to simply run a Spring Boot Application and not to mention all the shiny talk about *JavaScript Frameworks and Libraries*.
 
-So, how can I master all this? my answer may be a shocker to you but you can't!! well, at least not as fast as this things evolve. But it's not about mastering everything, it's more about discovering them and find out what can you use to develop high quality applications and how to solve different issues you may face along the road. At least this is my personal opinion of the matter.
+So, how can I master all this? my answer may be a shocker to you but you can't!! well, at least not as fast as this things evolve. But it's not about mastering everything, it's more about discovering them and finding out what you can use to develop high quality applications and how to solve different issues you may face along the road. At least this is my personal opinion of the matter.
 
 Back to our subject, these are 10 tips from *Javin Paul* on how to be a better Java developer :
 
@@ -138,7 +138,7 @@ Of course it's quite difficult to follow all these tips, and no one is asking yo
 My personal tips
 ---
 
-**Work & Learn! :** If you works in a company that uses the newest and best technologies, Lucky you! I bet many other developers around the world (me included) are jealous of you! but what everyone should know by now, graduating and getting a job isn't the end of the road, it's actually the beginning. I think that the best way to become a better programmer is to write code and read *everything!* The moment you stop doing either, you will slow down the progression of your skills.
+**Work & Learn! :** If you work in a company that uses the newest and best technologies, Lucky you! I bet many other developers around the world (me included) are jealous of you! but what everyone should know by now, graduating and getting a job isn't the end of the road, it's actually the beginning. I think that the best way to become a better programmer is to write code and read *everything!* The moment you stop doing either, you will slow down the progression of your skills.
 
 **Have a side project :** Probably you've heard this before but let me say it again, always have a side project! something you are completely responsible for. Use any technology you want. If you don't like it, start again from scratch. Keep trying to make you app fast, easy to use, and bug free.
 
