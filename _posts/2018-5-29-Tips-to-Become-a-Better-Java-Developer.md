@@ -12,7 +12,7 @@ I read recently an excellent article, published by *Javin Paul*, about tips on h
 
 It's no magic! being a better Java developer requires a lot of time and effort, plus the secret factor (hint: it's not chimical X):
 
-You should be *in love with Java <3* 
+You should be in love with *Java* <3 
 ---
 
 I rarely meet people that are great developers and yet, they don't code ALL THE TIME!! I know what you might be asking yourself and Duh! we do have lives too, but coding and discovering new things take the biggest part of our time.
