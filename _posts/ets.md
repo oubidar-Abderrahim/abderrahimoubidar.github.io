@@ -8,9 +8,13 @@ excerpt_separator: <!--more-->
 Greetings!
 <!--more-->
 
-I read recently an excellent article, published by *Javin Paul*, about tips on how to become a better Java developer! and today I decided to share those tips with you, with a little extra, my personal tips on how to stay on top as a Java developer.
+It's been a while since I posted something, I apology but the last couple of months were difficult for me. But I am back and hopfully I can write more articals in the near future.
 
-It's no magic! being a better Java developer requires a lot of time and effort, plus the secret factor (hint: it's not chimical X):
+So today we're going to shed the light on the difference between the HTTP methods : POST and PUT.
+
+Usually when you ask a junior developer about the difference between POST and PUT, you got the same answer : POST for creation and PUT for update! But why?
+
+
 
 You should be in love with *Java* <3 
 ---
