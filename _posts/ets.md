@@ -10,18 +10,17 @@ Greetings!
 
 It's been a while since I posted something, I apology but the last couple of months were difficult for me. But I am back and hopfully I can write more articals in the near future.
 
-So today we're going to shed the light on the difference between the HTTP methods : POST and PUT.
+Back to the subject and ours today will be about what changed in JAVA since the release of JAVA 9?
 
-Usually when you ask a junior developer about the difference between POST and PUT, you got the same answer : POST for creation and PUT for update! But why?
+Last year was a big year for the JAVA community with some major changes in its ecosystem, it started with the release of JAVA 9 in September 2017, then JAVA 10 in March 2018 and the latest JAVA 11 in Septembre 2018, and it will continue with a new release each 6 months, a big change compared to when we used to get a major release every few years. but why so fast?
+
+It's not just JAVA that's going fast but the whole world is! JAVA needed to adapt in order to keep it's place within the ecosystem. 
 
 
 
-You should be in love with *Java* <3 
----
 
-I rarely meet people that are great developers and yet, they don't code ALL THE TIME!! I know what you might be asking yourself and Duh! we do have lives too, but coding and discovering new things take the biggest part of our time.
 
-Technology is evolving fast! While I still consider Java 8 a new thing, Java 11 is coming soon already! we jumped from making long xml and configuration classes to simply run a Spring Boot Application and not to mention all the shiny talk about *JavaScript Frameworks and Libraries*.
+cation and not to mention all the shiny talk about *JavaScript Frameworks and Libraries*.
 
 So, how can I master all this? my answer may be a shocker to you but you can't!! well, at least not as fast as this things evolve. But it's not about mastering everything, it's more about discovering them and finding out what you can use to develop high quality applications and how to solve different issues you may face along the road. At least this is my personal opinion of the matter.
 
