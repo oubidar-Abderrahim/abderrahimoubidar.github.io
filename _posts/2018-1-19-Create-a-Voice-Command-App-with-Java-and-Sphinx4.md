@@ -67,7 +67,7 @@ Once done with that, you're ready to write some code!!
 
 *Note* the code is commented to help you understand it better.
 
-{% highlight java %}
+```
 import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.LiveSpeechRecognizer;
 import edu.cmu.sphinx.api.SpeechResult;
@@ -164,7 +164,7 @@ public class VoiceLauncher {
     }
   }
 }
-{% endhighlight %}
+```
 
 
 Adding more commands :
