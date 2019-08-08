@@ -10,7 +10,7 @@ Greetings!
 
 There are a lot of best practices and design patterns that keep popping up to software developers during their search for greatness. One of this best practices for object oriented programming is the SOLID principles.
 
-What is the SOLID principles :
+What is the SOLID principles?
 ---
 
 SOLID is an acronym, Each of its five letters represent a single principle. Listed in order, they are as follows:
@@ -21,7 +21,7 @@ SOLID is an acronym, Each of its five letters represent a single principle. List
 * **I**nterface Segregation Principle
 * **D**ependency Inversion Principle
 
-We will see each principle in a second, stay tuned
+We will see each principle in a second, stay tuned!
 
 
 Single Responsibility Principle
@@ -29,7 +29,9 @@ Single Responsibility Principle
 
 Put shortly, the Single Responsibility Principle (SRP) tells us that an object should do one thing, and it should do it well. In the words of George C. Martin, “A class should have only one reason to change”. 
 
-You might be asking: "What if a class is suited to keep track of two or more things together?" I sure did ask this at first, but then I realized that he wasn’t talking about variable states, but about reasons to exist. If a class is designed to parse a document and then display it to the user, it actually has two reasons to exist, and therefore it has two reasons to change. Either the documents content could change (and with it, the process of parsing it), or the format of the document could change (and therefore, change the way it should be displayed). These two responsibilities should, according to SRP, be split into two different classes, each one with a single reason to exist.
+You might be asking: "What if a class is suited to keep track of two or more things together?" 
+
+I sure did ask this at first, but later I came to the realization that he wasn’t talking about variable states, but about reasons to exist. If a class is designed to parse a document and then display it to the user, it actually has two reasons to exist, and therefore it has two reasons to change. Either the documents content could change (and with it, the process of parsing it), or the format of the document could change (and therefore, change the way it should be displayed). These two responsibilities should, according to SRP, be split into two different classes, each one with a single reason to exist.
 
 Open-Closed Principle
 ---
